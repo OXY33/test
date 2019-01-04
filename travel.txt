@@ -1,3 +1,10 @@
 Packing List
 ------------
 - shoes
+- socks
+- shirts
+
+Transportation Check List
+------------
+- train tick
+- rental car
