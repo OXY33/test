@@ -3,6 +3,7 @@ Packing List
 - shoes
 - socks
 - shirts
+- camera
 
 Transportation Check List
 ------------
